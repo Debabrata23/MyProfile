@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/my-profile/static/css/main.6adfaa6f.css",
-    "main.js": "/my-profile/static/js/main.7bbdef5a.js",
-    "static/js/787.f22bbd0a.chunk.js": "/my-profile/static/js/787.f22bbd0a.chunk.js",
-    "static/media/black1.jpg": "/my-profile/static/media/black1.d7221c0debb3b2520969.jpg",
-    "static/media/black-radial-gradient-6b237e4d.jpg": "/my-profile/static/media/black-radial-gradient-6b237e4d.3acf6404cb7922d923e1.jpg",
-    "static/media/PL400.pdf": "/my-profile/static/media/PL400.67de9d0b8ecd1ae0865f.pdf",
-    "static/media/PL900.pdf": "/my-profile/static/media/PL900.4b8437c63afa025f2ac6.pdf",
-    "static/media/Debabrata_Saha_Resume_2.pdf": "/my-profile/static/media/Debabrata_Saha_Resume_2.ad7656ab84fc445e2e01.pdf",
-    "static/media/Deb.jpg": "/my-profile/static/media/Deb.e5c294b7f57d02f8181b.jpg",
-    "static/media/power-platform-developer-600x600.png": "/my-profile/static/media/power-platform-developer-600x600.0df7e2359a0a9310fda8.png",
-    "static/media/CERT-Fundamentals-Power-Platform.png": "/my-profile/static/media/CERT-Fundamentals-Power-Platform.a0955d030ff22b779d5f.png",
-    "static/media/hurricane-aperature-3d-background.jpg": "/my-profile/static/media/hurricane-aperature-3d-background.2bbcd82613a83dcd8f7a.jpg",
-    "static/media/logo.svg": "/my-profile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-profile/index.html",
-    "main.6adfaa6f.css.map": "/my-profile/static/css/main.6adfaa6f.css.map",
-    "main.7bbdef5a.js.map": "/my-profile/static/js/main.7bbdef5a.js.map",
-    "787.f22bbd0a.chunk.js.map": "/my-profile/static/js/787.f22bbd0a.chunk.js.map"
+    "main.css": "/myresume/static/css/main.1567e8a1.css",
+    "main.js": "/myresume/static/js/main.6ed43b34.js",
+    "static/js/787.f22bbd0a.chunk.js": "/myresume/static/js/787.f22bbd0a.chunk.js",
+    "static/media/black1.jpg": "/myresume/static/media/black1.d7221c0debb3b2520969.jpg",
+    "static/media/black-radial-gradient-6b237e4d.jpg": "/myresume/static/media/black-radial-gradient-6b237e4d.3acf6404cb7922d923e1.jpg",
+    "static/media/PL400.pdf": "/myresume/static/media/PL400.67de9d0b8ecd1ae0865f.pdf",
+    "static/media/PL900.pdf": "/myresume/static/media/PL900.4b8437c63afa025f2ac6.pdf",
+    "static/media/Debabrata_Saha_Resume_2.pdf": "/myresume/static/media/Debabrata_Saha_Resume_2.ad7656ab84fc445e2e01.pdf",
+    "static/media/Deb.jpg": "/myresume/static/media/Deb.e5c294b7f57d02f8181b.jpg",
+    "static/media/power-platform-developer-600x600.png": "/myresume/static/media/power-platform-developer-600x600.0df7e2359a0a9310fda8.png",
+    "static/media/CERT-Fundamentals-Power-Platform.png": "/myresume/static/media/CERT-Fundamentals-Power-Platform.a0955d030ff22b779d5f.png",
+    "static/media/logo.svg": "/myresume/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myresume/index.html",
+    "main.1567e8a1.css.map": "/myresume/static/css/main.1567e8a1.css.map",
+    "main.6ed43b34.js.map": "/myresume/static/js/main.6ed43b34.js.map",
+    "787.f22bbd0a.chunk.js.map": "/myresume/static/js/787.f22bbd0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6adfaa6f.css",
-    "static/js/main.7bbdef5a.js"
+    "static/css/main.1567e8a1.css",
+    "static/js/main.6ed43b34.js"
   ]
 }
