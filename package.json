@@ -2,7 +2,7 @@
   "name": "personalprofile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://debabrataprofile.github.io/",
+  "homepage": "http://debabrataprofile.github.io/my-profile",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
