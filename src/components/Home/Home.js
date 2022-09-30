@@ -32,7 +32,7 @@ const Home = () => {
     <Container className="mainContainer">
     <TopNavigation/>
     <Row className='maininfo'>
-      <Col xs={6}>
+      <Col xs={6} >
          <Row><span className='headerTxt'>Debabrata Saha</span></Row>
          <Row><strong><span className='abtmetxt'>About me</span></strong></Row>
          <Row><div className='descriptionHeader'>A Microsoft Professional with 6.4 years of experience in Microsoft Technology.Worked in SharePoint 2013 and SharePoint Online.Involved in ened to end development of E-Commerce portal using SPFX and React.Also involved in client requirement gathering and managing a team.Developing websites using PowerApps and automate various process using MS Flows and other Dynamic365 technology.Have good knowledge of Azure DevOpps and Agile methodology and Git</div></Row>
